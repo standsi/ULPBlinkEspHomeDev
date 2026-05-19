@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "lp_blink"
+		},
+		{
+			"path": "riscv_blink"
+		}
+	],
+	"settings": {}
+}
